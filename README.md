@@ -1,4 +1,9 @@
 # july2026_Sunnykumari_pathnex
-### Kal kya karungi
-- coding ki practive karungi
-- aws ec2 account connect karungi
+## aaj ka plan
+ - today i learned about theory of kubernates
+ - interview question
+ - practice shell scripting
+
+## kal ka plan 
+ - continue kubernates
+ - linux commands practice
